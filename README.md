@@ -69,7 +69,6 @@ Upload to GitHub Pages for free hosting.
 
 <!-- HERO -->
 <section class="hero">
-    <h2>Hello 👋</h2>
     <h1>Welcome to My Portfolio</h1>
     <p>I am <span>Yuva Sree M</span></p>
     <p class="role">Aspiring Data Analyst</p>
@@ -343,7 +342,8 @@ footer {
 ```
 
 ## OUTPUT
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/609e43be-6732-4f7f-b366-f535e8f9d010" />
+
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e5045b7a-d281-4e70-93f5-fe6df30cea62" />
 
 <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/fae309c8-7464-446e-bb60-592965f6d1fb" />
 
